@@ -1,0 +1,302 @@
+[
+    {
+      "item_name": "1990s Gameboy",
+      "description": "But mom I want one!",
+      "price": 1599,
+      "category_name": "Electronics"
+    },
+    {
+      "item_name": "New iMac",
+      "description": "Good lord is it pretty",
+      "img_u": 100000000,
+      "category_name": "Electronics"
+    },
+    {
+      "item_name": "React Native online tutorials",
+      "description": "Are React and React Native the same thing though?",
+      "price": 1099,
+      "category_name": "Electronics"
+    },
+    {
+      "item_name": "Antique Bookshelf",
+      "description": "Makes your apartment smell like rich mahogany",
+      "price": 7999,
+      "category_name": "Household"
+    },
+    {
+      "item_name": "Drinks Globe",
+      "description": "Booze and geography combined",
+      "price": 1800,
+      "category_name": "Household"
+    },
+    {
+      "item_name": "Hand crafted pottery tea cups",
+      "description": "Comes with a free homely vibe",
+      "price": 3000,
+      "category_name": "Household"
+    },
+    {
+      "item_name": "Big 'ol pile of beanies",
+      "description": "Comfy and warm!",
+      "price": 1200,
+      "category_name": "Clothing"
+    },
+    {
+      "item_name": "Laptop stickers",
+      "description": "Let the world know about all the cool tech you're into... or just fill it with random nonsense, you do you :D ",
+      "price": 600,
+      "category_name": "Electronics"
+    },
+    {
+      "item_name": "Headphones",
+      "description": "The coding equivalent of a do not disturb sign",
+      "price": 3000,
+      "category_name": "Electronics"
+    },
+    {
+      "item_name": "Plain White T",
+      "description": "A modern classic",
+      "price": 799,
+      "category_name": "Clothing"
+    },
+    {
+      "item_name": "Duct Tape",
+      "description": "Can be used to achieve literally anything. Case in point - a gravity defying banana.",
+      "price": 899,
+      "category_name": "Household"
+    },
+    {
+      "item_name": "Chess Board",
+      "description": "You could be the next Magnus Carlsen",
+      "price": 2500,
+      "category_name": "Household"
+    },
+    {
+      "item_name": "Surf Board",
+      "description": "Surfs up dude",
+      "price": 4000,
+      "category_name": "Household"
+    },
+    {
+      "item_name": "Satchel",
+      "description": "Perfectly laptop sized",
+      "price": 1800,
+      "category_name": "Clothing"
+    },
+    {
+      "item_name": "Watch",
+      "description": "What time is it? Time you got a watch",
+      "price": 7000,
+      "category_name": "Clothing"
+    },
+    {
+      "item_name": "Pocket Watch",
+      "description": "What time is it? Time you got a watch",
+      "price": 8000,
+      "category_name": "Clothing"
+    },
+    {
+      "item_name": "Watercolour paint set",
+      "description": "Bob ross would be proud",
+      "price": 2000,
+      "category_name": "Household"
+    },
+    {
+      "item_name": "Electric guitar",
+      "description": "This one goes up to eleven",
+      "price": 2000,
+      "category_name": "Electronics"
+    },
+    {
+      "item_name": "Pre ripped jeans",
+      "description": "Get some jeans that have seen it all without having to go through all those awkward life experiences yourself",
+      "price": 1700,
+      "category_name": "Clothing"
+    },
+    {
+      "item_name": "Raincoat",
+      "description": "Perfect for exploring the great outdoors",
+      "price": 3999,
+      "category_name": "Clothing"
+    },
+    {
+      "item_name": "Light up suit",
+      "description": "Ideal for raves",
+      "irice": 10000,
+      "category_name": "Clothing"
+    },
+    {
+      "item_name": "Drone",
+      "description": "Think of all the cool aerial fly overs you'll be able to take",
+      "price": 6000,
+      "category_name": "Electronics"
+    },
+    {
+      "item_name": "See through desktop case",
+      "description": "Cat not included",
+      "price": 2000,
+      "category_name": "Electronics"
+    },
+    {
+      "item_name": "Desktop Microphone",
+      "description": "Crystal clear quality on all your zoom calls",
+      "price": 9000,
+      "category_name": "Electronics"
+    },
+    {
+      "item_name": "Ultra-wide Monitor",
+      "description": "Capable of opening over 200 browser tabs simultaneously",
+      "irice": 30000,
+      "category_name": "Electronics"
+    },
+    {
+      "item_name": "Drawing Tablet",
+      "description": "As made famous by terrible handwriting in northcoders lectures",
+      "price": 4000,
+      "category_name": "Electronics"
+    },
+    {
+      "item_name": "Vintage Piano",
+      "description": "Even if you can't play it sure does look cool",
+      "imice": 200000,
+      "category_name": "Household"
+    },
+    {
+      "item_name": "Standing desk",
+      "description": "Great for your posture whilst coding all day",
+      "price": 5000,
+      "category_name": "Household"
+    },
+    {
+      "item_name": "Wicker Chair",
+      "description": "Cat not included",
+      "price": 2000,
+      "category_name": "Household"
+    },
+    {
+      "item_name": "Cactus",
+      "description": "Spiky",
+      "price": 899,
+      "category_name": "Household"
+    },
+    {
+      "item_name": "Wooden Chair",
+      "description": "A real vintage feel",
+      "price": 2800,
+      "category_name": "Household"
+    },
+    {
+      "item_name": "Cat scratching post",
+      "description": "Give them something to scratch instead of your furniture",
+      "price": 1599,
+      "category_name": "Household"
+    },
+    {
+      "item_name": "Classic converse",
+      "description": "Express yourself as an individual by doing the same as everyone else",
+      "price": 4000,
+      "category_name": "Clothing"
+    },
+    {
+      "item_name": "iPhone",
+      "description": "Apple's latest smartphone model",
+      "price": 799,
+      "category_name": "Electronics"
+    },
+    {
+      "item_name": "Blender",
+      "description": "A kitchen appliance used for blending food and drinks",
+      "price": 59,
+      "category_name": "Household"
+    },
+    {
+      "item_name": "T-Shirt",
+      "description": "A casual short-sleeved shirt",
+      "price": 19,
+      "category_name": "Clothing"
+    },
+    {
+      "item_name": "Laptop",
+      "description": "A portable computer for personal use",
+      "price": 599,
+      "category_name": "Electronics"
+    },
+    {
+      "item_name": "Vacuum Cleaner",
+      "description": "A device used for cleaning floors and carpets",
+      "price": 199,
+      "category_name": "Household"
+    },
+    {
+      "item_name": "Smartwatch",
+      "description": "A wristwatch with advanced features",
+      "price": 349,
+      "category_name": "Electronics"
+    },
+    {
+      "item_name": "Microwave",
+      "description": "A kitchen appliance used for cooking and heating food",
+      "price": 79,
+      "category_name": "Household"
+    },
+    {
+      "item_name": "Jeans",
+      "description": "A type of pants made from denim",
+      "price": 39,
+      "category_name": "Clothing"
+    },
+    {
+      "item_name": "Tablet",
+      "description": "A portable computer with a touch screen",
+      "price": 299,
+      "category_name": "Electronics"
+    },
+    {
+      "item_name": "Coffee Maker",
+      "description": "An appliance used for brewing coffee",
+      "price": 49,
+      "category_name": "Household"
+    },
+    {
+      "item_name": "Sneakers",
+      "description": "A type of athletic shoe for casual wear",
+      "price": 59,
+      "category_name": "Clothing"
+    },
+    {
+      "item_name": "Camera",
+      "description": "A device used to capture still images and videos",
+      "price": 499,
+      "category_name": "Electronics"
+    },
+    {
+      "item_name": "Blanket",
+      "description": "A piece of soft material used for warmth and comfort",
+      "price": 29,
+      "category_name": "Household"
+    },
+    {
+      "item_name": "Hoodie",
+      "description": "A type of sweatshirt with a hood",
+      "price": 39,
+      "category_name": "Clothing"
+    },
+    {
+      "item_name": "Smart TV",
+      "description": "A television with advanced features and internet connectivity",
+      "price": 599,
+      "category_name": "Electronics"
+    },
+    {
+      "item_name": "Sofa",
+      "description": "A piece of furniture for seating multiple people",
+      "price": 499,
+      "category_name": "Household"
+    },
+    {
+      "item_name": "Backpack",
+      "description": "A bag with straps for carrying items on the back",
+      "price": 29,
+      "category_name": "Clothing"
+    }
+  ]
